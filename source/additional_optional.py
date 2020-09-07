@@ -1,3 +1,4 @@
+#glob is use to provide unix shell like regular expression in some ways
 #optional file for use of PIL and glob
 import sys
 import glob
