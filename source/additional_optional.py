@@ -1,3 +1,4 @@
+#optional file for use of PIL and glob
 import sys
 import glob
 from PIL import Image
